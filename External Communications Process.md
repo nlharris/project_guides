@@ -27,7 +27,6 @@ External communications, in this context, refers to any paper, talk, etc. that w
 - Some external communications (such as blog posts and tweets) are typically written by the UE team, but we welcome your input! This can range from a one-liner (e.g., "Review article X cited my KBase paper") to complete news items that you would like us to post on our blog at kbase.us. The UE team will review and write/edit these as needed and show the revised version to the author before posting publicly.
 - Suggested author list for KBase publications, posters, etc.:
 1.  First author (person who did the most work or person who is presenting the conference talk--some conferences require that to be the first author)
-2.  Other people who contributed significantly to the work
+2.  Other people who contributed significantly to the work, including appropriate team leads who coordinated development, core developers, and Communication team lead and personnel who contributed significant editing or content to the product.
 3.  Anyone else from KBase who will be attending the conference.
-4.  Other people who contributed significantly to the work, including appropriate team leads who coordinated development, core developers, and Communication team lead and personnel who contributed significant editing or content to the product.
-5.  Adam, Rick, Bob, Sergei [PIs], "and the KBase Team" to recognize others on the project who are not listed as authors.
+4.  Adam, Rick, Bob, Sergei [PIs], "and the KBase Team" to recognize others on the project who are not listed as authors.
